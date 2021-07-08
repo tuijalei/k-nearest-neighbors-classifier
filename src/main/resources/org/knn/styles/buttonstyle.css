@@ -1,0 +1,22 @@
+.buttonstyle {
+   -fx-background-color:
+        linear-gradient(#ffeaa7, #f2a28f),
+        linear-gradient(#ffeaa7 0%, #f2a28f 100%),
+        linear-gradient(from 0% 0% to 90% 100%, #ffeaa7, #f2a28f);
+   -fx-background-radius: 5;
+   -fx-border-radius: 5;
+   -fx-padding: 5px;
+   -fx-border-color: black;
+}
+
+.buttonstyle:hover {
+    -fx-background-color:
+        linear-gradient(#f2a28f, #ffeaa7),
+        linear-gradient(#f2a28f 0%, #ffeaa7 100%),
+        linear-gradient(from 0% 0% to 90% 100%, #f2a28f, #ffeaa7);
+   -fx-background-radius: 5;
+   -fx-border-radius: 5;
+   -fx-padding: 5px;
+   -fx-border-color: black;
+}
+

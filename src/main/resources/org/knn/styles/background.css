@@ -1,0 +1,6 @@
+.background {
+    -fx-background-color:  #fab1a0;
+    -fx-border-color: #a07d40, black;
+    -fx-border-insets: 0, 5;
+    -fx-border-width: 5,1;
+}
