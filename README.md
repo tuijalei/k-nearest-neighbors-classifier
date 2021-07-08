@@ -2,6 +2,8 @@ Harkkatyö Turun yliopiston Soveltavat projektit -kurssiin
 
 Työparina Janek Tuisk (github: jTuisk)
 
+![Picture of ui](https://github.com/tuijalei/k-nearest-neighbors-classifier/blob/main/src/main/resources/org/knn/pictures/knn-classifier-ui.jpg)
+
 ______________________________________________________________________________________________________________
 
 Luokittelijan toiminta
